@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32679426/README.md)
 # Inteligentne sterowanie oddawaniem energii z magazynu Lionshee LS-H1600
 
 ## Punkt wyjścia
