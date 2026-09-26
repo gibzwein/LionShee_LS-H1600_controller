@@ -27,7 +27,7 @@ flowchart LR
         LS["Lionshee LS-H1600<br/>(hub + magazyn energii)"]
     end
 
-    ESP["ESP32 CYD<br/>odczyt i przeliczanie co 60 s"]
+    ESP["ESP32 CYD<br/>odczyt i przeliczanie co 90 s"]
     Tuya["Chmura Tuya"]
     Ekran["Wyświetlacz CYD"]
 
